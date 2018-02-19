@@ -1,5 +1,4 @@
 # Arithmetic Server
-___
 Arithmetic Server is a Java client/server program that allows up to one client at a time to connect to the server, in which the client sends arithmetic inputs for the server to compute and relay the results back to the client. Extensive error handling is implemented server-side to filter out bad inputs and return error codes to the client. The client has the ability to end its connection with the server as well terminate the server.
 
 ### Getting Started
